@@ -21,3 +21,7 @@ Random Forest Classification to identify high-performing students with 96% accur
 │   └── report_summary.pdf      # Detailed interpretation of findings
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project overview and instructions
+
+## Getting Started
+1. Install dependencies: `pip install -r requirements.txt`
+2. Open `notebooks/analysis_full.ipynb` to view the step-by-step multivariate analysis.
