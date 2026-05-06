@@ -1,5 +1,9 @@
+# Multivariate Analysis of Student Performance
+
+[**📊 View Interactive Report**](https://123mike-dev.github.io/Multivariate-Analysis-of-Student-Performance-and-Educational-Outcomes/) | [**📂 Project Wiki**](#) 
+
 # Multivariate Analysis of Academic Performance
-Multivariate Analysis of Academic PerformanceAn Actuarial Perspective on Educational Outcomes
+Multivariate Analysis of Academic Performance. An Actuarial Perspective on Educational Outcomes
 ## Project Overview
 This project applies multivariate statistical techniques to the hsb2 dataset to determine how socio-economic factors and institutional types influence academic success across five core subjects.
 Key MethodologiesHypothesis Testing: 
