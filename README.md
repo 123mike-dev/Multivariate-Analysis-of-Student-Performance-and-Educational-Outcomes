@@ -1,6 +1,6 @@
 # Multivariate Analysis of Student Performance
 
-[**📊 View Interactive Report**](https://123mike-dev.github.io/Multivariate-Analysis-of-Student-Performance-and-Educational-Outcomes/) | [**📂 Project Wiki**](#) 
+[**📊 View Interactive Report**](MULTIVARIATE METHODS.ipynb) | [**📂 Project Wiki**](#) 
 
 # Multivariate Analysis of Academic Performance
 Multivariate Analysis of Academic Performance. An Actuarial Perspective on Educational Outcomes
