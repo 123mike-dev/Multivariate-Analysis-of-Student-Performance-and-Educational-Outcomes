@@ -43,3 +43,28 @@ Random Forest Classification to identify high-performing students with 96% accur
 | **PCA (PC1)** | $67.6\%$ Variance | Identified "General Academic Ability" as the primary latent factor across all subjects. |
 | **Canonical Correlation** | $R = 0.433$ | Confirmed a strong multivariate link between home environment (SES) and academic outcomes. |
 | **Predictive Modeling** | **$96\%$ Accuracy** | Random Forest model reliably classifies top-tier student performance (AUC = 0.99). |
+# Multivariate Analysis of Student Performance
+
+## Correlation Heatmap
+
+![Correlation Heatmap]([correlation_heatmap.png]
+
+## PCA Scree Plot
+
+![Scree Plot](images/scree_plot_pca.png)
+
+## chi2 qqPlot
+
+![qqPlot](chi2_qqplot.png)
+
+## classification results 
+
+![classification results](classification_results.png)
+
+## ses perfomance 
+
+![ses perfomance](ses_perfomance.png)
+
+## roc curve
+
+![roc curve](roc_curve.png)
