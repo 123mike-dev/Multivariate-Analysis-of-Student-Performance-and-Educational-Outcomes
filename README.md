@@ -47,7 +47,7 @@ Random Forest Classification to identify high-performing students with 96% accur
 
 ## Correlation Heatmap
 
-![Correlation Heatmap]([correlation_heatmap.png]
+![Correlation Heatmap]([images/correlation_heatmap.png]
 
 ## PCA Scree Plot
 
